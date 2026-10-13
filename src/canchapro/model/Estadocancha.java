@@ -4,10 +4,9 @@
  */
 package canchapro.model;
 
-/**
- *
- * @author perem
- */
 public enum Estadocancha {
+    Disponible,
+    Mantenimiento,
+    Reserva,
     
 }
